@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 const Blogs = () => {
   return <div>Blogs</div>;
@@ -17,7 +18,15 @@ const Blogs = async () => {
     </div>
   );
 >>>>>>> a77c82f (add base pages)
+<<<<<<< HEAD
 >>>>>>> 9087cea (add base pages)
+=======
+=======
+
+const Blogs = () => {
+  return <div>Blogs</div>;
+>>>>>>> 9c1aa71 (creating initial structure [Pages,Components])
+>>>>>>> f119696 (creating initial structure [Pages,Components])
 };
 
 export default Blogs;
